@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    width: 100vw;
+}
+
+.navbar {
+    width: 120vw;
+
+}
+
+.top-container {
+    height: 60vh;
+}
+
+.dark {
+    width: 25px;
+    border-width: 0px;
+}
+
+.span-name {
+    font-family: Roboto;
+    color: grey;
+    text-decoration: underline;
+}
+
+.navbar-brand {
+
+    font-weight: 500;
+    font-family: Roboto;
+    font-size: 14px;
+    color: black;
+
+
+
+}
+
+.socials {
+    border: 2px black;
+    color: black;
+}
+
+.nav-item {
+    list-style-type: none;
+    font-family: Roboto;
+    font-size: 15px;
+    color: black;
+    margin: 8px;
+    text-align: center;
+}
+
+.nav-link {
+    color: black;
+    font-size: 12px;
+    font-family: Roboto;
+}
+
+.logo {
+    width: 20px;
+}
+
+.navbar-nav {
+    height: 20px;
+
+}
+
+.hlo-img {
+    width: 70px;
+}
+
+.profile-img {
+    width: 30vw;
+    height: 30vh;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+.para {
+    font-size: 14px;
+}
+
+.cv-btn {
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 4px;
+    border-color: #ffffff;
+}
+
+.get-in-btn {
+    background: black;
+    border-radius: 4px;
+    font-weight: bold;
+    border-color: white;
+
+}
+
+.btm-cont {
+    width: 80vw;
+}
+
+.bt-container {
+    width: 30vw;
+    height: 50vh;
+    background-image: url("https://res.cloudinary.com/dddrjslg5/image/upload/v1750855529/Vector_1_kbddmi.svg");
+    background-size: cover;
+
+}
+
+.hand-img {
+    width: 30vw;
+    padding-top: 0px;
+}
+
+.bt-heading {
+    font-size: 12px;
+}
+
+.hr {
+    width: 45vw;
+}
+
+.bt-para {
+    font-size: 12px;
+    margin-left: 0px;
+    padding-left: 0px;
+
+}
+
+.side-img {
+    width: 40vw;
+    height: 50vh;
+    margin: 20px;
+}
+
+.img {
+    width: 30vw;
+}
+
+.dark {
+    margin: 2px;
+}
+
+.social-links {
+    height: 20px;
+    margin: 2px;
+}
+
+.footer {
+    margin: 10px;
+}
